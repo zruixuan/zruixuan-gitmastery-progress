@@ -95,5 +95,14 @@
       "Great work pushing changes to the remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787040831.706667,
+    "completed_at": 1787040841.429496,
+    "comments": [
+      "You have not committed the relevant changes yet!"
+    ],
+    "status": "Incomplete"
   }
 ]
