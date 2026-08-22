@@ -329,5 +329,14 @@
       "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787390172.538761,
+    "completed_at": 1787390175.480847,
+    "comments": [
+      "You have successfully completed the exercise!"
+    ],
+    "status": "Completed"
   }
 ]
